@@ -24,7 +24,7 @@ public class Deporte extends Videojuegos{
         return costo;
     }
 
-    public void deportes(){
+    public void imprimirDep(){
         System.out.println("Existen videojuegos dedicados al deporte");
     }
 
